@@ -7,3 +7,4 @@ llm_rag.egg-info
 api_testing
 .env
 test.json
+images
